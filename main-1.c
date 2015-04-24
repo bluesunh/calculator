@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
 	int a, b, c;
 	char operator;
 	
-	printf("Please enter a expression 1111111111");
+	printf("Please enter a expression 111111111111111");
 	scanf("%d %c %d", &a, &operator, &b);
 	
 	switch (operator)
